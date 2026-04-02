@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [2235-add-two-integers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
