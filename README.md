@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [2235-add-two-integers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
