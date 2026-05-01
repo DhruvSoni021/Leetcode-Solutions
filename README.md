@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Matrix
 |  |
