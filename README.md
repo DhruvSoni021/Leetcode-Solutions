@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Queue
