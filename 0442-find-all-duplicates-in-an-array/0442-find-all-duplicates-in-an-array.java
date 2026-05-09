@@ -8,7 +8,7 @@ class Solution {
             freq[num]++;
         }
 
-        for(int i=0;i<freq.length;i++)
+        for(int i=1;i<freq.length;i++)
         {
             if(freq[i]==2) ans.add(i);
         }
