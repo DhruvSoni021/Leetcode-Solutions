@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Trie
 |  |
 | ------- |
