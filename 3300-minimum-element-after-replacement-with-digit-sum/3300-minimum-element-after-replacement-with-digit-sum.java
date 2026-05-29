@@ -1,5 +1,6 @@
 class Solution {
     public int minElement(int[] nums) {
+        // mine
     //     ArrayList<Integer> arr = new ArrayList<>();
     //     for(int i=0;i<nums.length;i++)
     //     {
@@ -28,10 +29,11 @@ class Solution {
                 sum += temp % 10;
                 temp /= 10;
             }
-
-            min = Math.min(min, sum);
+            if(sum < min)
+            {
+                min = sum;
+            }
         }
-
         return min;
     }
 }
