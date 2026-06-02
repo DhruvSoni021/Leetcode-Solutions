@@ -4,8 +4,20 @@ class Solution {
         int maxSum = nums[0];
         for(int i=1;i<nums.length;i++)
         {
-            currentSum = Math.max(nums[i], currentSum + nums[i]);
-            maxSum = Math.max(currentSum, maxSum);
+            // currentSum
+            if(nums[i] > currentSum + nums[i])
+            {
+                currentSum = nums[i];
+            }
+            else{
+                currentSum = currentSum + nums[i];
+            }
+
+            // maxSum
+            if(maxSum < currentSum)
+            {
+                maxSum = currentSum;
+            }
         }
         return maxSum;
     }
