@@ -7,10 +7,21 @@ class Solution {
         {
             return mat;
         } 
+        int row = 0;
+        int col = 0;
+        for(int i=0; i<m; i++)
+        {   
+           for(int j=0; j<n; j++)
+           {
+                reshape[row][col] = mat[i][j];
+                col++;
 
-        for(int i=0; i<m*n; i++)
-        {
-           reshape[i/c][i%c] = mat[i/n][i%n]; 
+                if(col==c)
+                {
+                    row++;
+                    col=0;
+                }   
+           }
         }
         return reshape;
     }
