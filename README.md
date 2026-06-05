@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
