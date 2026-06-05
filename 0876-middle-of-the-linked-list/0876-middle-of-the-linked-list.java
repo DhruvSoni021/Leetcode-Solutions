@@ -10,26 +10,40 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode temp = head;
-        int size=0;
-        for(temp = head; temp != null ; temp = temp.next){
-            size++;
+        ListNode slow = head;
+        ListNode fast = head;
+        
+        while(fast != null && fast.next != null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        if(size % 2 != 0){
-            temp = head;
-            for(int i=1;i<=size/2;i++)
-            {
-                temp = temp.next;
-            }
-            return temp;
-        }
-        else{
-            temp = head;
-            for(int i=1;i<size/2;i++)
-            {
-                temp = temp.next;
-            }
-            return temp.next;
-        }
+    return slow;
+
+
+
+        // not a one pass solution
+
+        // ListNode temp = head;
+        // int size=0;
+        // for(temp = head; temp != null ; temp = temp.next){
+        //     size++;
+        // }
+        // if(size % 2 != 0){
+        //     temp = head;
+        //     for(int i=1;i<=size/2;i++)
+        //     {
+        //         temp = temp.next;
+        //     }
+        //     return temp;
+        // }
+        // else{
+        //     temp = head;
+        //     for(int i=1;i<size/2;i++)
+        //     {
+        //         temp = temp.next;
+        //     }
+        //     return temp.next;
+        // }
     }
 }
