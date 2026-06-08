@@ -2,7 +2,7 @@ class Solution {
     public int firstUniqChar(String s) {
         int n=s.length();
         int [] freq= new int[26];
-        for(int i=0;i<n;i++)
+        for(int i=0;i<n;i++)    
         {
             char ch = s.charAt(i);
             int idx = ch-'a';
