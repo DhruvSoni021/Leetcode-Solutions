@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -329,5 +332,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
