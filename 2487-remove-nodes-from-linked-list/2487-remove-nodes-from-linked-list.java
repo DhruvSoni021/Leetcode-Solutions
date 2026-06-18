@@ -10,28 +10,28 @@
  */
 class Solution {
     public ListNode removeNodes(ListNode head) {
-        Stack<Integer> st = new Stack<>();
+         Stack<Integer> st = new Stack<>();
+
         ListNode temp = head;
-        while(temp!=null)
-        {
-            while(st.size()>0 && temp.val>st.peek())
-                {
-                    st.pop();
-                }
-            
-            st.push(temp.val);  
+
+        while (temp != null) {
+
+            while (!st.isEmpty() && temp.val > st.peek()) {
+                st.pop();
+            }
+
+            st.push(temp.val);
             temp = temp.next;
         }
+
         head = null;
-        while(st.size()>0)
-        {
-            ListNode temp2 = new ListNode(st.pop());
-            if(head == null) head = temp2;
-            else {
-                temp2.next = head;
-                head = temp2;
-            } 
+
+        while (!st.isEmpty()) {
+            ListNode node = new ListNode(st.pop());
+            node.next = head;
+            head = node;
         }
+
         return head;
     }
 }
