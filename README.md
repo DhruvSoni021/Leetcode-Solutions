@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -403,4 +405,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
