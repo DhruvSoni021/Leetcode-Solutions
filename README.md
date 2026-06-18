@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2326-spiral-matrix-iv](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
