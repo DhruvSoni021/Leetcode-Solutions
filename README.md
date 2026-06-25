@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -511,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
