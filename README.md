@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2326-spiral-matrix-iv](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
