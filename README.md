@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2326-spiral-matrix-iv](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
