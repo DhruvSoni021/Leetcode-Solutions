@@ -5,26 +5,47 @@ class MyQueue {
         input = new Stack<>();
         output = new Stack<>();
     }
-    
-    public void push(int x) {
+    public void push(int x) {      //O(n)  push at bottom apporach
+        while(input.size()>0)
+        {
+            output.push(input.pop());
+        }
         input.push(x);
+        while(output.size()>0)
+        {
+            input.push(output.pop());
+        }
     }
     
-    public int pop() {
-        peek();
-        return output.pop();
+    public int pop() {      //O(1)
+        return input.pop();
     }
     
-    public int peek() {
-       if(output.isEmpty())
-       {
-            while(!input.isEmpty())
-            {
-                output.push(input.pop());
-            }
-       }
-       return output.peek();
+    public int peek() {             //O(1)
+       return input.peek();
     }
+
+
+
+    // public void push(int x) {
+    //     input.push(x);           // O(1)
+    // }
+    
+    // public int pop() {
+    //     peek();                  //O(n)
+    //     return output.pop();
+    // }
+    
+    // public int peek() {             // O(n)
+    //    if(output.isEmpty())
+    //    {
+    //         while(!input.isEmpty())
+    //         {
+    //             output.push(input.pop());
+    //         }
+    //    }
+    //    return output.peek();
+    // }
     
     public boolean empty() {
         return input.isEmpty() && output.isEmpty();
