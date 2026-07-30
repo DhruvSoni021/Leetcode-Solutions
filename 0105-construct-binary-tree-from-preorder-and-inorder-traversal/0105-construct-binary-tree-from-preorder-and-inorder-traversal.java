@@ -25,8 +25,7 @@ class Solution {
 
         return root;
     }
-    public TreeNode isBuilder(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd,
-                                HashMap<Integer,Integer> inMap){
+    public TreeNode isBuilder(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd, HashMap<Integer,Integer> inMap){
         
         if(preStart > preEnd || inStart > inEnd) return null;
 
