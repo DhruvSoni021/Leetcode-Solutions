@@ -15,28 +15,52 @@
  */
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        HashMap<Integer,Integer> inMap = new HashMap<>();
-        for(int i=0; i<inorder.length; i++)
+        int n = inorder.length;
+        return build(0,n-1,0,n-1,inorder,preorder);
+    }
+    public TreeNode build(int prelo, int prehi, int inlo, int inhi, int[] inorder, int[] preorder )
+    {
+        if(prelo > prehi || inlo > inhi) return null;
+        int val = preorder[prelo];
+        TreeNode root = new TreeNode(val);
+        int r = 0;
+        for(int i=inlo;i<=inhi;i++)
         {
-            inMap.put(inorder[i],i);
+            if(inorder[i]==val) {
+                r = i;
+                break;
+            }
         }
-
-        TreeNode root = isBuilder(preorder, 0, preorder.length-1, inorder, 0, inorder.length-1, inMap);
-
+        int cnt = r - inlo; // elements in LST
+        root.left = build(prelo+1, prelo+cnt,inlo,r-1,inorder,preorder);
+        root.right = build(prelo+cnt+1, prehi,r+1,inhi,inorder,preorder);
         return root;
     }
-    public TreeNode isBuilder(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd, HashMap<Integer,Integer> inMap){
+
+
+    // public TreeNode buildTree(int[] preorder, int[] inorder) {
+    //     HashMap<Integer,Integer> inMap = new HashMap<>();
+    //     for(int i=0; i<inorder.length; i++)
+    //     {
+    //         inMap.put(inorder[i],i);
+    //     }
+
+    //     TreeNode root = isBuilder(preorder, 0, preorder.length-1, inorder, 0, inorder.length-1, inMap);
+
+    //     return root;
+    // }
+    // public TreeNode isBuilder(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd, HashMap<Integer,Integer> inMap){
         
-        if(preStart > preEnd || inStart > inEnd) return null;
+    //     if(preStart > preEnd || inStart > inEnd) return null;
 
-        TreeNode root = new TreeNode(preorder[preStart]);
-        int inRoot = inMap.get(root.val);
-        int numsLeft = inRoot - inStart;
+    //     TreeNode root = new TreeNode(preorder[preStart]);
+    //     int inRoot = inMap.get(root.val);
+    //     int numsLeft = inRoot - inStart;
 
-        root.left = isBuilder(preorder, preStart+1, preStart+numsLeft, inorder, inStart, inRoot-1, inMap);
-        root.right = isBuilder(preorder, preStart+numsLeft+1, preEnd, inorder, inRoot+1, inEnd, inMap);
+    //     root.left = isBuilder(preorder, preStart+1, preStart+numsLeft, inorder, inStart, inRoot-1, inMap);
+    //     root.right = isBuilder(preorder, preStart+numsLeft+1, preEnd, inorder, inRoot+1, inEnd, inMap);
 
-        return root;  
-    }
+    //     return root;  
+    // }
                                 
 }
