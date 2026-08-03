@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2235-add-two-integers) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -591,4 +594,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
