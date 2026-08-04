@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
+| [3731-find-missing-elements](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3536-maximum-product-of-two-digits](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
