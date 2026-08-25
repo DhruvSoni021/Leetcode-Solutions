@@ -3,7 +3,7 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         for(int ele : nums)
         {
-            set.add(ele);
+            if(ele%k==0)set.add(ele);
         }
         int c=1;
         while(set.contains(k*c)){
