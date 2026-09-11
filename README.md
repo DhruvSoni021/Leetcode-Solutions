@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -475,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
 | ------- |
