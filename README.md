@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
