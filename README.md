@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [3498-reverse-degree-of-a-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
 |  |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/DhruvSoni021/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
